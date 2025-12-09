@@ -7,6 +7,8 @@
   </ul>
 </div>
 
+[![amissa's 42 stats](https://badge.mediaplus.ma/darkblue/amissa)](https://github.com/oakoudad/badge42)
+
 <h3 align="center">🌐 Socials</h3>
 <p align="center">
   <a href="https://linkedin.com/in/abdelilah-missa">
