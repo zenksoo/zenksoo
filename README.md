@@ -7,7 +7,11 @@
   </ul>
 </div>
 
-[![amissa's 42 stats](https://badge.mediaplus.ma/darkblue/amissa)](https://github.com/oakoudad/badge42)
+<p align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/darkblue/amissa" alt="amissa's 42 stats">
+  </a>
+</p>
 
 <h3 align="center">🌐 Socials</h3>
 <p align="center">
