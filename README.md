@@ -17,7 +17,7 @@
   <a href="https://linkedin.com/in/abdelilah-missa">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" height="40"/>
   </a>
-  <a href="https://www.codewars.com/users/abdelilah_dev">
+  <a href="https://www.codewars.com/users/a_missa">
     <img src="https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=white&style=for-the-badge" alt="Codewars" height="40"/>
   </a>
   <a href="mailto:contactme.abdelilah@gmail.com">
