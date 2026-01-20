@@ -1,10 +1,9 @@
 [![](https://visitcount.itsvg.in/api?id=AbdeLilah-Dev&icon=1&color=0)](https://visitcount.itsvg.in)
 <div align="center">
   <h1>Hi 👋, I'am Abdelilah Missa </></h1>
-  <ul style="list-style: none;">
-    <li>IT Student</li>
-    <li>Front-End Developer</li>
-  </ul>
+  <strong>IT Student</strong>
+  <br>
+  <strong>Front-End Developer</strong><br><br>
 </div>
 
 <p align="center">
