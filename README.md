@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/oakoudad/badge42">
+  <a href="">
     <img src="https://badge.mediaplus.ma/darkblue/amissa" alt="amissa's 42 stats">
   </a>
 </p>
