@@ -13,22 +13,28 @@
   </a>
 </p>
 
-<h3 align="center">🌐 Socials</h3>
+<h2 align="center">🌐 Socials</h2>
 <p align="center">
   <a href="https://linkedin.com/in/abdelilah-missa">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" height="40"/>
-  </a>
-  <a href="https://www.codewars.com/users/a_missa">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=white&style=for-the-badge" alt="Codewars" height="40"/>
   </a>
   <a href="mailto:contactme.abdelilah@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" height="40"/>
   </a>
 </p>
 
+<h2 align="center">🧠 Skills & Practice Stats</h2>
+<p align="center">
+  <a href="https://monkeytype.com/profile/amissa">
+    <img src="https://img.shields.io/badge/Monkeytype-000000?logo=monkeytype&logoColor=white&style=for-the-badge" alt="Monkeytype" height="40"/>
+  </a>
+  <a href="https://www.codewars.com/users/a_missa">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=white&style=for-the-badge" alt="Codewars" height="40"/>
+  </a>
+</p>
 
 
-<h3 align="center">💻 Tech Stack</h3>
+<h2 align="center">💻 Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
