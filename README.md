@@ -18,9 +18,9 @@
   <a href="https://linkedin.com/in/abdelilah-missa">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" height="40"/>
   </a>
-  <a href="mailto:contactme.abdelilah@gmail.com">
+  <!-- <a href="mailto:contactme.abdelilah@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" height="40"/>
-  </a>
+  </a> -->
 </p>
 
 <h2 align="center">🧠 Skills & Practice Stats</h2>
