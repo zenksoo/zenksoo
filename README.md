@@ -2,16 +2,16 @@
 <div align="center">
   <h1>Hi 👋, I'am Abdelilah Missa </></h1>
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=38D9F7&center=true&vCenter=true&width=444&lines=Student+At+1337+MED;Front+End+Developer" alt="Typing SVG">
-  <br>
-  <br>
+  <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=38D9F7&center=true&vCenter=true&width=444&lines=Student+At+1337+MED;Front+End+Developer" alt="Typing SVG"> -->
+  <!-- <br>
+  <br> -->
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <a href="">
     <img src="https://badge.mediaplus.ma/darkblue/amissa" alt="amissa's 42 stats">
   </a>
-</p>
+</p> -->
 
 <h2 align="center">🌐 Socials</h2>
 <p align="center">
