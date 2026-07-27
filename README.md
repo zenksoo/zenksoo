@@ -6,7 +6,7 @@ I'm a **Software Developer** at **1337 School** (42 Network), focused on low-lev
 
 
 * 🎓 **Software Developer** At **1337** School (**42 Network**)
-* 🎮 **Game Developer** [ **Godot** , **Unity** ]
+* 🎮 **Game Developer** [ **Godot c++** ]
   <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=38D9F7&center=true&vCenter=true&width=444&lines=Student+At+1337+MED;Front+End+Developer" alt="Typing SVG"> -->
   <!-- <br>
   <br> -->
