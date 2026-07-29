@@ -58,7 +58,7 @@ I'm a **Software Developer** student at **1337 School** (42 Network), focused on
   <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
   <!-- Game dev -->
   <img src="https://img.shields.io/badge/godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" />
-  <img src="https://img.shields.io/badge/gdscript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="GDScript" />
-  <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/aseprite-2C2C2C?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite" />
+  <img src="https://img.shields.io/badge/c++-478CBF?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <!-- <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/aseprite-2C2C2C?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite" /> -->
 </p>
