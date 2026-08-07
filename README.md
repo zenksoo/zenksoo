@@ -43,6 +43,13 @@ I'm a **Software & AI Developer** student at **1337 School** (42 Network), focus
 
 <h3>Things I'm Good At</h3>
 <p>
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/c++-478CBF?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <!-- Game dev -->
+  <img src="https://img.shields.io/badge/godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" />
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
@@ -52,13 +59,6 @@ I'm a **Software & AI Developer** student at **1337 School** (42 Network), focus
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-  <!-- Game dev -->
-  <img src="https://img.shields.io/badge/godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" />
-  <img src="https://img.shields.io/badge/c++-478CBF?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <!-- <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/aseprite-2C2C2C?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite" /> -->
 </p>
